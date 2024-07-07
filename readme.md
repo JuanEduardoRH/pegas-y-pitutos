@@ -47,6 +47,7 @@ Es importante que el trabajador pueda mostrar todas sus habilidades y en los tra
 - Empleador
   - Mantenedor de trabajos
   - Repostear trabajo
+  - Caza talentos (busqueda de trabajadores)
   - Mantenedor para procesos de postulación
   - Visualizador de perfil en postulantes
   - Visualizador y guardado de CV
