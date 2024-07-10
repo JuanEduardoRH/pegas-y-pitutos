@@ -13,13 +13,13 @@ password: 12345678
 
 # Detalles
 
-Empleadores:
+> Empleadores:
 
 En esta plataforma web, se puede crear publicaciones de trabajos, la cantidad de estas mismas publicaciones por cada cuenta es limitada, para remover esta restricción, puede realizar el pago de la membresía, este proceso se realiza gracias al SDK de Transbank.
 
 También puede gestionar las diversas etapas por las cuales el proceso de búsqueda de trabajadores va cursando, en dado caso que encuentre a la persona indicada, este proceso puede finalizar antes de tiempo, para esto la aplicación entrega datos asociados de dichos trabajadores, ya sea medio de contacto, presentación personal, historial de trabajos anteriores.
 
-Trabajador:
+> Trabajador:
 
 La plataforma provee un máximo de 3 postulaciones gratuitas, en dado caso que él requiera remover este límite de postulaciones y tener mayor visibilidad frente a otros postulantes, puede realizar la compra de una membresía, este proceso se realiza gracias al SDK de Transbank.
 
